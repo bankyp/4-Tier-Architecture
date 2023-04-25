@@ -1,5 +1,5 @@
 # 👨🏼‍💻 Deploying a 4 Tier Mailing Web Application on AWS 👨🏼‍💻
-## NOTE (ANNOUNCEMENT) DEC 29th:
+## NOTE (ANNOUNCEMENT):
 - I recently updated the branch name `three-tier-mailing-app-project` where the project scripts are in to `four-tier-mailing-app-project` 
 - You do not have to border about changing anything on your end because the project runbooks/scripts are all still the same, I only update the branch name to match the architecture we're building for this Application.
 - To make things esier for everyone, I have `MADE` the `four-tier-mailing-app-project` BRANCH the `DEFAULT` BRANCH. So you don't have to switch to the project branch everytime you click on the base repo link. 
